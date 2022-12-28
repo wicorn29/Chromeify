@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chromeify Browser</title>
+<style>
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+body {
+  background-image: url('https://github.com/wicorn29/Chromeify/raw/main/WebHostFiles/background.png');
+}
+</style>
+</head>
+<body>
+wil
+wil
+wil
+wow wil wow wilbrowser hehehehehehe
+<script async src="https://cse.google.com/cse.js?cx=158725bacde8a4324">
+</script>
+<div class="gcse-search"></div>
+<p/>
+<p id="rcorners1">Guess what? We now have a web browser! (Powered by Google)</p>
+</body>
+</html>
